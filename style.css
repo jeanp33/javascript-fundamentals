@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  button {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .resultAmount {
+    padding: 10px 0 10px 0;
+    font-size: 18px;
+  }
